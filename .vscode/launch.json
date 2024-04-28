@@ -1,0 +1,49 @@
+{
+    // Utilisez IntelliSense pour en savoir plus sur les attributs possibles.
+    // Pointez pour afficher la description des attributs existants.
+    // Pour plus d'informations, visitez : https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "FreshJuiceTest",
+            "request": "launch",
+            "mainClass": "FreshJuiceTest",
+            "projectName": "ds-java_low_level_554d970c"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "BasicDataTypes",
+            "request": "launch",
+            "mainClass": "BasicDataTypes",
+            "projectName": "ds-java_low_level_554d970c"
+        },
+        {
+            "type": "java",
+            "name": "HelloWorldApplication",
+            "request": "launch",
+            "mainClass": "HelloWorldApplication",
+            "projectName": "ds-java_low_level_554d970c"
+        },
+        {
+            "type": "java",
+            "name": "SignificationDeMot",
+            "request": "launch",
+            "mainClass": "SignificationDeMot",
+            "projectName": "ds-java_low_level_554d970c"
+        },
+        {
+            "type": "java",
+            "name": "VariableTypes",
+            "request": "launch",
+            "mainClass": "VariableTypes",
+            "projectName": "ds-java_low_level_554d970c"
+        }
+    ]
+}
