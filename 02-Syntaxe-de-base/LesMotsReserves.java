@@ -111,23 +111,82 @@ public class LesMotsReserves {
      * 
      * New
      * 
-     * package :
-     * private :
-     * protected :
-     * public :
+     * package : Les packages sont utilisés en Java afin d'éviter les conflits de
+     * noms,
+     * de contrôler l'accès, de faciliter la recherche/localisation et l'utilisation
+     * des classes, des interfaces, des énumérations et des annotations, etc.
+     * 
+     * private : Les méthodes, variables et constructeurs déclarés privés ne sont
+     * accessibles que dans la classe déclarée elle-même.
+     * 
+     * protected : Le modificateur d'accès protégé ne peut pas être appliqué à la
+     * classe et aux interfaces.
+     * 
+     * public : Une classe, une méthode, un constructeur, une interface, etc.
+     * déclarés publics sont accessibles depuis n'importe quelle autre classe.
+     * 
      * Return
-     * Short :
-     * Static :
+     * 
+     * Short : En attribuant différents types de données aux variables, vous pouvez
+     * stocker des entiers, des décimales ou des caractères dans ces variables.
+     * 
+     * Static : Le mot clé static est utilisé pour créer des variables qui
+     * existeront indépendamment de toute instance créée pour la classe.
+     * 
      * Strictfp
-     * Super :
-     * Switch :
-     * This :
-     * Throw :
-     * Transient :
-     * Try :
-     * Void :
-     * Volatile :
-     * While :
+     * 
+     * Super : Le super mot-clé est similaire à ce mot-clé.
+     * 
+     * Switch : Une instruction switch permet de tester l’égalité d’une variable par
+     * rapport à une liste de valeurs.
+     * 
+     * This : ce mot-clé est un mot-clé très important pour identifier un objet.
+     * Voici l'utilisation de ce mot-clé.
+     * 
+     * Throw : Si une méthode ne gère pas une exception vérifiée, elle doit la
+     * déclarer à l'aide du mot-clé throws .
+     * 
+     * Transient : La sérialisation est un concept grâce auquel nous pouvons écrire
+     * l'état d'un objet dans un flux
+     * d'octets afin de pouvoir le transférer sur le réseau (en utilisant des
+     * technologies comme JPA et RMI).
+     * 
+     * Try : Une méthode intercepte une exception à l’aide d’une combinaison des
+     * mots-clés try et catch .
+     * 
+     * Void
+     * 
+     * Volatile
+     * 
+     * While : Une instruction de boucle while dans le langage de programmation Java
+     * exécute à plusieurs reprises
+     * une instruction cible tant qu'une condition donnée est vraie.
+     */
+
+    /*
+     * L'héritage :
+     * 
+     * En Java, les classes peuvent être dérivées de classes.
+     * Fondamentalement, si vous devez créer une nouvelle classe et qu'il existe
+     * déjà une classe contenant une partie du code dont vous avez besoin,
+     * il est alors possible de dériver votre nouvelle classe à partir du code déjà
+     * existant.
+     * Ce concept permet de réutiliser les champs et méthodes de la classe existante
+     * sans avoir à réécrire le code dans une nouvelle classe.
+     * Dans ce scénario, la classe existante est appelée superclasse et la classe
+     * dérivée est appelée sous-classe .
+     */
+
+    /*
+     * L'interfaces :
+     * 
+     * En langage Java, une interface peut être définie comme un contrat entre des
+     * objets sur la manière de communiquer entre eux.
+     * Les interfaces jouent un rôle essentiel lorsqu’il s’agit de la notion
+     * d’héritage.
+     * Une interface définit les méthodes qu’une classe dérivée (sous-classe) doit
+     * utiliser.
+     * Mais la mise en œuvre des méthodes dépend entièrement de la sous-classe.
      */
 
 }
