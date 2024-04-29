@@ -1,3 +1,5 @@
+/*----- Exemple 1 : portée locale de la variable avec initialisation -----*/
+
 public class VariableLocalePorter {
 
     public void pupAge() {
