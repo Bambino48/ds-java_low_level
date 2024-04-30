@@ -1,0 +1,77 @@
+{
+    // Utilisez IntelliSense pour en savoir plus sur les attributs possibles.
+    // Pointez pour afficher la description des attributs existants.
+    // Pour plus d'informations, visitez : https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "TypeDataReferenceObjet",
+            "request": "launch",
+            "mainClass": "TypeDataReferenceObjet",
+            "projectName": "04-Type-de-donnees-java_981513e6"
+        },
+        {
+            "type": "java",
+            "name": "TypeDataChar",
+            "request": "launch",
+            "mainClass": "TypeDataChar",
+            "projectName": "04-Type-de-donnees-java_981513e6"
+        },
+        {
+            "type": "java",
+            "name": "TypeDataBoolean",
+            "request": "launch",
+            "mainClass": "TypeDataBoolean",
+            "projectName": "04-Type-de-donnees-java_981513e6"
+        },
+        {
+            "type": "java",
+            "name": "TypeDataDouble",
+            "request": "launch",
+            "mainClass": "TypeDataDouble",
+            "projectName": "04-Type-de-donnees-java_981513e6"
+        },
+        {
+            "type": "java",
+            "name": "TypeDataFloat",
+            "request": "launch",
+            "mainClass": "TypeDataFloat",
+            "projectName": "04-Type-de-donnees-java_981513e6"
+        },
+        {
+            "type": "java",
+            "name": "TypeDataLong",
+            "request": "launch",
+            "mainClass": "TypeDataLong",
+            "projectName": "04-Type-de-donnees-java_981513e6"
+        },
+        {
+            "type": "java",
+            "name": "TypeDataInt",
+            "request": "launch",
+            "mainClass": "TypeDataInt",
+            "projectName": "04-Type-de-donnees-java_981513e6"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "TypeDataByte",
+            "request": "launch",
+            "mainClass": "TypeDataByte",
+            "projectName": "04-Type-de-donnees-java_981513e6"
+        },
+        {
+            "type": "java",
+            "name": "TypeDataShorts",
+            "request": "launch",
+            "mainClass": "TypeDataShorts",
+            "projectName": "04-Type-de-donnees-java_981513e6"
+        }
+    ]
+}

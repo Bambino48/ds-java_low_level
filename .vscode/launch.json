@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Test1",
+            "request": "launch",
+            "mainClass": "Test1",
+            "projectName": "ds-java_low_level_554d970c"
+        },
+        {
+            "type": "java",
+            "name": "TestPorteDeVariableLocale",
+            "request": "launch",
+            "mainClass": "TestPorteDeVariableLocale",
+            "projectName": "ds-java_low_level_554d970c"
+        },
+        {
+            "type": "java",
             "name": "FreshJuiceTest",
             "request": "launch",
             "mainClass": "FreshJuiceTest",
