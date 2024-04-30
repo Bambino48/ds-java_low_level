@@ -1,0 +1,42 @@
+{
+    // Utilisez IntelliSense pour en savoir plus sur les attributs possibles.
+    // Pointez pour afficher la description des attributs existants.
+    // Pour plus d'informations, visitez : https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Exemple3",
+            "request": "launch",
+            "mainClass": "Exemple3",
+            "projectName": "06-Système-unicode_c7092ee5"
+        },
+        {
+            "type": "java",
+            "name": "Exemple2",
+            "request": "launch",
+            "mainClass": "Exemple2",
+            "projectName": "06-Système-unicode_c7092ee5"
+        },
+        {
+            "type": "java",
+            "name": "Approche2",
+            "request": "launch",
+            "mainClass": "Approche2",
+            "projectName": "06-Système-unicode_c7092ee5"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Approche1",
+            "request": "launch",
+            "mainClass": "Approche1",
+            "projectName": "06-Système-unicode_c7092ee5"
+        }
+    ]
+}
