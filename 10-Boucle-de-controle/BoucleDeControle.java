@@ -26,7 +26,7 @@
  * | |
  * | if condition |
  * v is true |
- * Condition------------>------------
+ * Condition------------>--------
  * |
  * |
  * | if condition
@@ -70,12 +70,12 @@
  */
 /*
  * 
- * 1 instruction de pause
+ * 1 instruction break
  * Termine l' instruction de boucle ou de commutateur et transfère l'exécution à
  * l'instruction qui
  * suit immédiatement la boucle ou le commutateur.
  * 
- * 2 continuer la déclaration
+ * 2 instruction continue
  * Fait que la boucle ignore le reste de son corps et reteste immédiatement son
  * état avant de réitérer.
  * 

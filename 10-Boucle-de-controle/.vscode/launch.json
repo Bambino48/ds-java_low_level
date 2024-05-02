@@ -1,0 +1,63 @@
+{
+    // Utilisez IntelliSense pour en savoir plus sur les attributs possibles.
+    // Pointez pour afficher la description des attributs existants.
+    // Pour plus d'informations, visitez : https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Exemple2Switch",
+            "request": "launch",
+            "mainClass": "Exemple2Switch",
+            "projectName": "10-Boucle-de-controle_cf362446"
+        },
+        {
+            "type": "java",
+            "name": "InstructionSwitch",
+            "request": "launch",
+            "mainClass": "InstructionSwitch",
+            "projectName": "10-Boucle-de-controle_cf362446"
+        },
+        {
+            "type": "java",
+            "name": "InstructionIfElseImbriquee",
+            "request": "launch",
+            "mainClass": "InstructionIfElseImbriquee",
+            "projectName": "10-Boucle-de-controle_cf362446"
+        },
+        {
+            "type": "java",
+            "name": "InstructionIfElseIf2",
+            "request": "launch",
+            "mainClass": "InstructionIfElseIf2",
+            "projectName": "10-Boucle-de-controle_cf362446"
+        },
+        {
+            "type": "java",
+            "name": "InstructionIfElseIf",
+            "request": "launch",
+            "mainClass": "InstructionIfElseIf",
+            "projectName": "10-Boucle-de-controle_cf362446"
+        },
+        {
+            "type": "java",
+            "name": "InstructionIfElse",
+            "request": "launch",
+            "mainClass": "InstructionIfElse",
+            "projectName": "10-Boucle-de-controle_cf362446"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "DecisionMaking",
+            "request": "launch",
+            "mainClass": "DecisionMaking",
+            "projectName": "10-Boucle-de-controle_cf362446"
+        }
+    ]
+}
