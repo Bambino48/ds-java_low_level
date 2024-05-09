@@ -1,3 +1,4 @@
+package InstructionSwitch;
 /* Déclaration du commutateur Java :
 
  * L' instruction Java switch permet de tester l'égalité d' une variable par rapport à une liste de valeurs. 
@@ -7,6 +8,7 @@
  * Il peut avoir plusieurs blocs de code avec les valeurs de cas et exécute l'un des nombreux blocs 
  * de code en fonction de la valeur de cas correspondante.
  */
+
 /* Syntaxe
 La syntaxe de l'instruction Java switch est :
 

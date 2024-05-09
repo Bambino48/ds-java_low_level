@@ -1,3 +1,4 @@
+package InstructionSwitch;
 /* Exemple 2
  * Dans cet exemple, nous montrons l'utilisation de l'instruction switch où les cas sont basés sur un int. 
  * Nous avons créé une note variable. En fonction de la valeur de la note, chaque cas est vérifié. 

@@ -1,3 +1,4 @@
+package InstructionDeCondition;
 /*
  * En Java , l' instruction if else est utilisée pour exécuter deux blocs de code en fonction de la condition donnée. 
  * Une  instruction Java  if s'exécute lorsque l'expression booléenne de l'instruction if est vraie. 

@@ -1,3 +1,5 @@
+package InstructionDeCondition;
+
 /* Exemple 2 : instruction Java if… else if… else :
 
  * Dans cet exemple, nous montrons l'utilisation de l'instruction if...else if...else. 

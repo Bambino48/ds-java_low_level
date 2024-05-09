@@ -6,6 +6,153 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Exemple3",
+            "request": "launch",
+            "mainClass": "Continue.Exemple3",
+            "projectName": "10-Boucle-de-controle_cf362446"
+        },
+        {
+            "type": "java",
+            "name": "Exemple2",
+            "request": "launch",
+            "mainClass": "Continue.Exemple2",
+            "projectName": "10-Boucle-de-controle_cf362446"
+        },
+        {
+            "type": "java",
+            "name": "InstructionContinue",
+            "request": "launch",
+            "mainClass": "Continue.InstructionContinue",
+            "projectName": "10-Boucle-de-controle_cf362446"
+        },
+        {
+            "type": "java",
+            "name": "Exemple3",
+            "request": "launch",
+            "mainClass": "Break.Exemple3",
+            "projectName": "10-Boucle-de-controle_cf362446"
+        },
+        {
+            "type": "java",
+            "name": "Exemple2",
+            "request": "launch",
+            "mainClass": "Break.Exemple2",
+            "projectName": "10-Boucle-de-controle_cf362446"
+        },
+        {
+            "type": "java",
+            "name": "InstructionBreak",
+            "request": "launch",
+            "mainClass": "Break.InstructionBreak",
+            "projectName": "10-Boucle-de-controle_cf362446"
+        },
+        {
+            "type": "java",
+            "name": "DoWhileInfinie",
+            "request": "launch",
+            "mainClass": "BoucleDoWhile.DoWhileInfinie",
+            "projectName": "10-Boucle-de-controle_cf362446"
+        },
+        {
+            "type": "java",
+            "name": "Exemple2DoWhile",
+            "request": "launch",
+            "mainClass": "BoucleDoWhile.Exemple2DoWhile",
+            "projectName": "10-Boucle-de-controle_cf362446"
+        },
+        {
+            "type": "java",
+            "name": "DoWhile",
+            "request": "launch",
+            "mainClass": "DoWhile",
+            "projectName": "10-Boucle-de-controle_cf362446"
+        },
+        {
+            "type": "java",
+            "name": "DoWhile",
+            "request": "launch",
+            "mainClass": "BoucleDoWhile.DoWhile",
+            "projectName": "10-Boucle-de-controle_cf362446"
+        },
+        {
+            "type": "java",
+            "name": "Exemple3While",
+            "request": "launch",
+            "mainClass": "Exemple3While",
+            "projectName": "10-Boucle-de-controle_cf362446"
+        },
+        {
+            "type": "java",
+            "name": "Exemple2While",
+            "request": "launch",
+            "mainClass": "Exemple2While",
+            "projectName": "10-Boucle-de-controle_cf362446"
+        },
+        {
+            "type": "java",
+            "name": "BoucleWhile",
+            "request": "launch",
+            "mainClass": "BoucleWhile",
+            "projectName": "10-Boucle-de-controle_cf362446"
+        },
+        {
+            "type": "java",
+            "name": "Exemple3Foreach",
+            "request": "launch",
+            "mainClass": "Exemple3Foreach",
+            "projectName": "10-Boucle-de-controle_cf362446"
+        },
+        {
+            "type": "java",
+            "name": "Exemple2Foreach",
+            "request": "launch",
+            "mainClass": "Exemple2Foreach",
+            "projectName": "10-Boucle-de-controle_cf362446"
+        },
+        {
+            "type": "java",
+            "name": "BoucleForEach",
+            "request": "launch",
+            "mainClass": "BoucleForEach",
+            "projectName": "10-Boucle-de-controle_cf362446"
+        },
+        {
+            "type": "java",
+            "name": "BoucleForImbriquee",
+            "request": "launch",
+            "mainClass": "BoucleForImbriquee",
+            "projectName": "10-Boucle-de-controle_cf362446"
+        },
+        {
+            "type": "java",
+            "name": "BoucleForInfinie",
+            "request": "launch",
+            "mainClass": "BoucleForInfinie",
+            "projectName": "10-Boucle-de-controle_cf362446"
+        },
+        {
+            "type": "java",
+            "name": "Exemple2For",
+            "request": "launch",
+            "mainClass": "Exemple2For",
+            "projectName": "10-Boucle-de-controle_cf362446"
+        },
+        {
+            "type": "java",
+            "name": "BoucleFor",
+            "request": "launch",
+            "mainClass": "BoucleFor",
+            "projectName": "10-Boucle-de-controle_cf362446"
+        },
+        {
+            "type": "java",
+            "name": "Exemple3Switch",
+            "request": "launch",
+            "mainClass": "Exemple3Switch",
+            "projectName": "10-Boucle-de-controle_cf362446"
+        },
+        {
+            "type": "java",
             "name": "Exemple2Switch",
             "request": "launch",
             "mainClass": "Exemple2Switch",

@@ -1,3 +1,4 @@
+package InstructionDeCondition;
 /*
  * Les structures de prise de décision ont une ou plusieurs conditions à évaluer ou tester par le programme, 
  * ainsi qu'une ou plusieurs instructions qui doivent être exécutées si la condition est déterminée comme 
@@ -6,6 +7,7 @@
 Voici la forme générale d'une structure de prise de décision typique trouvée dans la plupart des langages de 
 programmation :
  */
+
 //
 //                                           @
 //                                           |

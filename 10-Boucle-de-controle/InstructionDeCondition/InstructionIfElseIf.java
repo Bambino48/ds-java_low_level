@@ -1,3 +1,4 @@
+package InstructionDeCondition;
 /*Instruction Java if-else-if :
 
  * L' instruction if...else if...else est utilisée pour exécuter plusieurs blocs de code en fonction des conditions 
